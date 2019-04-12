@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IPSS</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="f1">Laman Utama</string>
+    <string name="language">Tukar Bahasa</string>
+    <string name="btn_start">Mula</string>
+    <string name="f3">Log Keluar</string>
+    <string name="f2">Sejarah Rekod</string>
+    <string name="txt_oneperseven">1/7</string>
+    <string name="txt_sevenperseven">7/7</string>
+    <string name="txt_sixperseven">6/7</string>
+    <string name="txt_fiveperseven">5/7</string>
+    <string name="txt_fourperseven">4/7</string>
+    <string name="txt_threeperseven">3/7</string>
+    <string name="txt_twoperseven">2/7</string>
+    <string name="que_title1">1. Pengosongan tidak sempurna</string>
+    <string name="que1">Sepanjang sebulan bulan yang lalu, berapa kerap anda rasa pundi kencing tidak dikosongkan sepenuhnya walaupun sudah berhenti kencing?</string>
+    <string name="que_title2">2. Sering kencing</string>
+    <string name="que2">Sepanjang sebulan bulan yang lalu, berapa kerap anda terpaksa kencing semula dalam masa dua jam selepas anda habis kencing?</string>
+    <string name="que_title3">3. Kencing terputus</string>
+    <string name="que3">Sepanjang sebulan yang lalu, berapa kerap anda dapati yang anda berhenti dan kencing semula beberapa kali semasa sedang kencing?</string>
+    <string name="que_title4">4. Kesulitan menahan rasa ingin kencing</string>
+    <string name="que4">Sepanjang bulan yang lalu, berapa sering anda sulit menahan kencing.</string>
+    <string name="que_title5">5. Pancaran lemah</string>
+    <string name="que5">Sepanjang sebulan yang lalu, berapa kerap anda rasa anda menpunyai aliran kencing yang lemah/</string>
+    <string name="que_title6">6. Mengejan</string>
+    <string name="que6">Sepanjang sebulan yang lalu, berapa kerap anda terpaksa meneran untuk mula kencing?</string>
+    <string name="que_title7">7. Kencing malam hari</string>
+    <string name="que7">Sepanjang sebulan yang lalu, lazimnya berapa kali anda bangun untuk kencing pada waktu malam setelah masuk tidur sehingga bangun esok paginya?</string>
+    <string name="btn1">Tiada langsung</string>
+    <string name="q2btn1">Tiada langsung</string>
+    <string name="q3btn1">Tiada langsung</string>
+    <string name="q4btn1">Tiada langsung</string>
+    <string name="q5btn1">Tiada langsung</string>
+    <string name="q6btn1">Tiada langsung</string>
+    <string name="q7btn1">Tiada langsung</string>
+    <string name="txt_advice">Mempunyai air kencing lebih kerap, serta lebih segera, pasti boleh mengganggu aliran hari anda. Anda harus tahu bahawa kencing yang kerap sering merupakan gejala hiperplasia prostatic benign (BHP), pembesaran kelenjar prostat tanpa kanser. BHP adalah keadaan biasa di kalangan lelaki berusia di atas 50 tahun. Bangun beberapa kali malam untuk buang air kecil dan mempunyai aliran air kencing yang lemah, lebih perlahan atau tertunda adalah gejala biasa yang lain.</string>
+    <string name="q7btn2">Sangat suka</string>
+    <string name="q6btn2">"Kurang daripada 1 kali dalam 5 "</string>
+    <string name="q5btn2">"Kurang daripada 1 kali dalam 5 "</string>
+    <string name="q4btn2">Kurang daripada 1 kali dalam 5 </string>
+    <string name="q3btn2">"Kurang daripada 1 kali dalam 5 "</string>
+    <string name="q2btn2">"Kurang daripada 1 kali dalam 5 "</string>
+    <string name="btn2">"Kurang daripada 1 kali dalam 5 "</string>
+    <string name="btn3">Kurang daripada separuh masa</string>
+    <string name="q2btn3">Kurang daripada separuh masa</string>
+    <string name="q3btn3">Kurang daripada separuh masa</string>
+    <string name="q5btn3">Kurang daripada separuh masa</string>
+    <string name="q6btn3">Kurang daripada separuh masa</string>
+    <string name="q7btn3">1 kali</string>
+    <string name="q7btn4">2 kali</string>
+    <string name="q6btn4">Kira-kira separuh daripada masanya</string>
+    <string name="q5btn4">Kira-kira separuh daripada masanya</string>
+    <string name="q4btn3">Kurang daripada separuh masa</string>
+    <string name="q3btn4">Kira-kira separuh daripada masanya</string>
+    <string name="q2btn4">Kira-kira separuh daripada masanya</string>
+    <string name="btn4">Kira-kira separuh daripada masanya</string>
+    <string name="btn5">Lebih daripada separuh masanya</string>
+    <string name="q2btn5">Lebih daripada separuh masanya</string>
+    <string name="q3btn5">Lebih daripada separuh masanya</string>
+    <string name="q4btn4">Kira-kira separuh daripada masanya</string>
+    <string name="q5btn5">Lebih daripada separuh masanya</string>
+    <string name="q6btn5">Lebih daripada separuh masanya</string>
+    <string name="q7btn5">3 kali</string>
+    <string name="q4btn5">Lebih daripada separuh masanya</string>
+    <string name="q6btn6">Hampir selalu</string>
+    <string name="q7btn6">4 kali</string>
+    <string name="q5btn6">Hampir selalu</string>
+    <string name="q4btn6">Hampir selalu</string>
+    <string name="q3btn6">Hampir selalu</string>
+    <string name="q2btn6">Hampir selalu</string>
+    <string name="btn6">Hampir selalu</string>
+    <string name="txt_result">5 kali atau lebih</string>
+    <string name="txt_scale1">0-7: Sedikit</string>
+    <string name="txt_scale2">8-18: Sederhana</string>
+    <string name="txt_scale3">>18: Teruk</string>
+    <string name="register">Pendaftaran Pengguna</string>
+    <string name="login">Log Masuk Pengguna</string>
+    <string name="loginbtn">Log Masuk</string>
+    <string name="registerbtn">Daftar</string>
+    <string name="enteremail">Masukkan Emel Anda</string>
+    <string name="enterpassword">Masukkan Kata Laluan Anda</string>
+    <string name="txtbtn1">Sudah mendaftar? Log masuk di sini</string>
+    <string name="txtbtn2">Tidak mempunyai akaun? Daftar di sini</string>
+    <string name="saveresult">Simpan Keputusan</string>
+    <string name="f4">Mengenai Kanser Prostat</string>
+    <string name="info0">Kanser Prostat</string>
+    <string name="info2">Gejala</string>
+    <string name="info1">Kanser prostat adalah kanser paling kerap keempat yang menjejaskan lelaki Malaysia, dengan kadar dijangka meningkat pada tahun-tahun akan datang. Ia adalah kanser pertumbuhan yang perlahan dan kebanyakannya mempengaruhi lelaki> berusia 50 tahun. Kelenjar prostat adalah kelenjar ukuran walnut yang hanya terdapat pada lelaki yang terletak di bawah pundi kencing di depan rektum, yang bertanggungjawab untuk membuat cecair yang menjadi sebahagian daripada air mani. Penyebab kanser prostat tidak difahami dan kini tiada strategi pencegahan yang jelas. Lelaki yang mempunyai saudara lelaki derajat pertama yang terjejas oleh kanser prostat telah meningkatkan risiko mendapatkan kanser prostat.</string>
+    <string name="info3">• Keperluan untuk buang air kecil secara kerap, terutamanya pada waktu malam, kadang-kadang dengan segera
+        \n• Kesukaran memulakan atau menahan kencing
+        \n• Kelemahan air kencing, aliran dribbling, atau terganggu
+        \n• Mengalami kencing atau membakar kencing
+        \n• Kesukaran untuk mendirikan ereksi
+        \n• Penurunan dalam jumlah cecair ejakulasi
+        \n• Ejakulasi menyakitkan
+        \n• Darah dalam air kencing atau air mani
+        \n• Tekanan atau kesakitan di rektum
+        \n• Kesakitan atau kekakuan di belakang, pinggul, pelvis, atau paha</string>
+    <string name="info4">Kadar Survival Kanser Prostat</string>
+    <string name="info5">" Menurut data terkini, apabila termasuk semua peringkat kanser prostat:
+        \n• Kadar kelangsungan hidup relatif 5 tahun adalah 99%
+        \n• Kadar survival relatif 10 tahun adalah 98%
+        \n• Kadar kelangsungan relatif 15 tahun ialah 96%
+        \nMengingat bahawa sama seperti kadar kelangsungan hidup 5 tahun didasarkan pada lelaki yang didiagnosis dan dilayan pertama lebih daripada 5 tahun lalu, kadar survival 10 tahun didasarkan pada lelaki yang didiagnosis lebih daripada 10 tahun yang lalu (dan kadar survival 15 tahun didasarkan pada lelaki yang didiagnosis sekurang-kurangnya 15 tahun yang lalu)."</string>
+</resources>

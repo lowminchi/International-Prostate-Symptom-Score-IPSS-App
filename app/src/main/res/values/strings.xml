@@ -1,0 +1,125 @@
+<resources>
+    <string name="app_name">IPSS</string>
+
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="f1">Homepage</string>
+    <string name="f2">History of Results</string>
+    <string name="f3">Log Out</string>
+    <string name="f4">About Prostate Cancer</string>
+    <string name="language">Change Language</string>
+    <string name="btn_start">START</string>
+
+    <string name="txt_oneperseven">1/7</string>
+    <string name="que_title1">1. Incomplete Emptying</string>
+    <string name="que1">Over the past month, how often have you had a sensation of not emptying your bladder completely after you finished urinating?</string>
+    <string name="btn1">Not at all</string>
+    <string name="btn2">Less than 1 time in 5</string>
+    <string name="btn3">Less than half the time</string>
+    <string name="btn4">About half the time</string>
+    <string name="btn5">More than half the time</string>
+    <string name="btn6">Almost always</string>
+
+    <string name="txt_twoperseven">2/7</string>
+    <string name="que_title2">2. Frequency</string>
+    <string name="que2">Over the past month, how often have you had to urinate again less than two hours after you finished urinating?</string>
+    <string name="q2btn1">Not at all</string>
+    <string name="q2btn2">Less than 1 time in 5</string>
+    <string name="q2btn3">Less than half the time</string>
+    <string name="q2btn4">About half the time</string>
+    <string name="q2btn5">More than half the time</string>
+    <string name="q2btn6">Almost always</string>
+
+    <string name="txt_threeperseven">3/7</string>
+    <string name="que_title3">3. Intermittency</string>
+    <string name="que3">Over the past month, how often have you found you have stopped and started again several times when you urinated?</string>
+    <string name="q3btn1">Not at all</string>
+    <string name="q3btn2">Less than 1 time in 5</string>
+    <string name="q3btn3">Less than half the time</string>
+    <string name="q3btn4">About half the time</string>
+    <string name="q3btn5">More than half the time</string>
+    <string name="q3btn6">Almost always</string>
+
+    <string name="txt_fourperseven">4/7</string>
+    <string name="que_title4">4. Urgency</string>
+    <string name="que4">Over the past month, how often have you found it difficult to postpone unrinating?</string>
+    <string name="q4btn1">Not at all</string>
+    <string name="q4btn2">Less than 1 time in 5</string>
+    <string name="q4btn3">Less than half the time</string>
+    <string name="q4btn4">About half the time</string>
+    <string name="q4btn5">More than half the time</string>
+    <string name="q4btn6">Almost always</string>
+
+    <string name="txt_fiveperseven">5/7</string>
+    <string name="que_title5">5. Weak Stream</string>
+    <string name="que5">Over the past month, how often have you had a weak urinary stream?</string>
+    <string name="q5btn1">Not at all</string>
+    <string name="q5btn2">Less than 1 time in 5</string>
+    <string name="q5btn3">Less than half the time</string>
+    <string name="q5btn4">About half the time</string>
+    <string name="q5btn5">More than half the time</string>
+    <string name="q5btn6">Almost always</string>
+
+    <string name="txt_sixperseven">6/7</string>
+    <string name="que_title6">6. Straining</string>
+    <string name="que6">Over the past month, how often have you had to push or strain to begin urination?</string>
+    <string name="q6btn1">Not at all</string>
+    <string name="q6btn2">Less than 1 time in 5</string>
+    <string name="q6btn3">Less than half the time</string>
+    <string name="q6btn4">About half the time</string>
+    <string name="q6btn5">More than half the time</string>
+    <string name="q6btn6">Almost always</string>
+
+    <string name="txt_sevenperseven">7/7</string>
+    <string name="que_title7">7. Nocturia</string>
+    <string name="que7">Over the past month, how many times did you most typically get up to urinate, from the time you went to bed at night until the time you got up in the morning?</string>
+    <string name="q7btn1">None</string>
+    <string name="q7btn2">1 time</string>
+    <string name="q7btn3">2 times</string>
+    <string name="q7btn4">3 times</string>
+    <string name="q7btn5">4 times</string>
+    <string name="q7btn6">5 or more times</string>
+
+    <string name="txt_result">"Total I-PSS Score: "</string>
+    <string name="txt_scale1">0–7: Mild </string>
+    <string name="txt_scale2">8–18: Moderate</string>
+    <string name="txt_scale3">>18: Severe</string>
+    <string name="txt_advice">Having to urinate more frequently, as well as more urgently, can definitely interrupt the flow of your day. You should know that frequent urination is often a symptom of benign prostatic hyperplasia(BHP), a noncancerous enlargement of the prostate gland. BHP is a common condition among men over age of 50. Waking up several times a night to urinate and having a weaker, slower, or delayed urine stream are other common symptoms.</string>
+    <string name="saveresult">Save Result</string>
+
+    <string name="register">"User Registration</string>
+    <string name="enteremail">Enter your email</string>
+    <string name="enterpassword">Enter your password</string>
+    <string name="registerbtn">Register</string>
+    <string name="txtbtn1">Already Registered? Login here</string>
+    <string name="login">User Login</string>
+    <string name="loginbtn">Log In</string>
+    <string name="txtbtn2">Not have an account? Sign Up Here</string>
+
+    <string name="info0">Prostate Cancer</string>
+    <string name="info1">Prostate cancer is the fourth most common cancer affecting Malaysian men, with rates expected to escalate in the coming years. It is a slow growing cancer and mostly affects men > 50 years old. Prostate gland is a walnut-sized gland found only in male located below the bladder in front of the rectum, which is responsible to make fluid that forms part of semen. The causes of prostate cancer are not understood and there is currently no clear prevention strategy. Men who have first degree male relatives affected by prostate cancer has increased risk of getting prostate cancer.
+</string>
+    <string name="info2">Symptom</string>
+    <string name="info3">•	A need to urinate frequently, especially at night, some- times urgently
+\n•	Difficulty starting or holding back urination
+\n•	Weak, dribbling, or interrupted flow of urine
+\n•	Painful or burning urination
+\n•	Difficulty in having an erection
+\n•	A decrease in the amount of fluid ejaculated
+\n•	Painful ejaculation
+\n•	Blood in the urine or semen
+\n•	Pressure or pain in the rectum
+\n•	Pain or stiffness in the lower back, hips, pelvis, or thighs
+</string>
+    <string name="info4">Survival rates for prostate cancer</string>
+    <string name="info5">According to the most recent data, when including all stages of prostate cancer:
+\n•	The 5-year relative survival rate is 99%
+\n•	The 10-year relative survival rate is 98%
+\n•	The 15-year relative survival rate is 96%
+\nKeep in mind that just as 5-year survival rates are based on men diagnosed and first treated more than 5 years ago, 10-year survival rates are based on men diagnosed more than 10 years ago (and 15-year survival rates are based on men diagnosed at least 15 years ago).
+</string>
+
+</resources>

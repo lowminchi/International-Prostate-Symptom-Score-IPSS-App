@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IPSS</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="f1">主页</string>
+    <string name="f2">历史记录</string>
+    <string name="f3">登出</string>
+    <string name="language">切换语言</string>
+    <string name="btn_start">开始</string>
+    <string name="txt_oneperseven">1/7</string>
+    <string name="txt_sevenperseven">7/7</string>
+    <string name="txt_sixperseven">6/7</string>
+    <string name="txt_fiveperseven">5/7</string>
+    <string name="txt_fourperseven">4/7</string>
+    <string name="txt_threeperseven">3/7</string>
+    <string name="txt_twoperseven">2/7</string>
+    <string name="que1">过去数月，你在排尿后是否经常有尿意未尽的感觉？</string>
+    <string name="que2">过去数月，你是否在排尿後不及两小时又有尿意？</string>
+    <string name="que3">过去数月，你在排尿时是否常有断断续续的现象？</string>
+    <string name="que4">过去数月，你是否常有难以忍尿的问题？</string>
+    <string name="que5">过去数月，你是否经有尿缓慢的问题？</string>
+    <string name="que6">过去数月，你是否经常需要使劲或出力才能开始排尿？</string>
+    <string name="que7">过去数月，从晚上上床睡觉到明早起床，你最常来小便的次数是多少？</string>
+    <string name="que_title7">7.  夜尿</string>
+    <string name="que_title6">6. 费力</string>
+    <string name="que_title5">5. 弱流</string>
+    <string name="que_title4">4. 迫切性</string>
+    <string name="que_title3">3. 断尿</string>
+    <string name="que_title2">2. 尿频</string>
+    <string name="que_title1">1. 尿不尽</string>
+    <string name="q7btn1">无</string>
+    <string name="q6btn1">完全没有</string>
+    <string name="q5btn1">完全没有</string>
+    <string name="q4btn1">完全没有</string>
+    <string name="q3btn1">完全没有</string>
+    <string name="q2btn1">完全没有</string>
+    <string name="btn1">完全没有</string>
+    <string name="txt_advice">不得不更频繁地排尿，以及更紧急的排尿，肯定会中断你的一天的流动。你应该知道，频繁的排尿往往是良性前列腺增生症（BHP）的一种症状，前列腺增生是非前列腺增生。必需脂肪酸是50岁以上男性的常见病症。一天晚上醒来几次小便并有较弱，较慢或延迟的尿流是其他常见症状。</string>
+    <string name="q7btn2">1次</string>
+    <string name="q6btn2">5次以内不到1次</string>
+    <string name="q5btn2">5次以内不到1次</string>
+    <string name="q4btn2">5次以内不到1次</string>
+    <string name="q3btn2">5次以内不到1次</string>
+    <string name="q2btn2">5次以内不到1次</string>
+    <string name="btn2">5次以内不到1次</string>
+    <string name="btn3">不及一半</string>
+    <string name="q2btn3">不及一半</string>
+    <string name="q3btn3">不及一半</string>
+    <string name="q4btn3">不及一半</string>
+    <string name="q5btn3">不及一半</string>
+    <string name="q6btn3">不及一半</string>
+    <string name="q7btn3">2次</string>
+    <string name="q7btn4">3次</string>
+    <string name="q6btn4">三次</string>
+    <string name="q5btn4">三次</string>
+    <string name="q4btn4">大约一半</string>
+    <string name="q3btn4">大约一半</string>
+    <string name="q2btn4">大约一半</string>
+    <string name="btn4">大约一半</string>
+    <string name="btn5">超过一半</string>
+    <string name="q2btn5">超过一半</string>
+    <string name="q3btn5">超过一半</string>
+    <string name="q4btn5">超过一半</string>
+    <string name="q5btn5">超过一半</string>
+    <string name="q6btn5">超过一半</string>
+    <string name="q7btn5">4次</string>
+    <string name="q7btn6">5次或以上</string>
+    <string name="q6btn6">几乎常常</string>
+    <string name="q5btn6">几乎常常</string>
+    <string name="q4btn6">几乎常常</string>
+    <string name="q3btn6">几乎常常</string>
+    <string name="q2btn6">几乎常常</string>
+    <string name="btn6">几乎常常</string>
+    <string name="txt_result">"I-PSS 的总积分: "</string>
+    <string name="txt_scale1">0-7：轻微</string>
+    <string name="txt_scale2">8-18：中等</string>
+    <string name="txt_scale3">> 18：严重</string>
+    <string name="register">用户注册</string>
+    <string name="registerbtn">注册</string>
+    <string name="enterpassword">输入您的密码</string>
+    <string name="enteremail">输入你的电子邮箱</string>
+    <string name="login">"用户登录 "</string>
+    <string name="loginbtn">"登录 "</string>
+    <string name="txtbtn1">已经注册？在此登录</string>
+    <string name="txtbtn2">没有帐户？在此注册</string>
+    <string name="saveresult">存储成绩</string>
+    <string name="f4">关于前列腺癌</string>
+    <string name="info0">前列腺癌</string>
+    <string name="info2">症状</string>
+    <string name="info4">前列腺癌的生存率</string>
+    <string name="info1">前列腺癌是影响马来西亚男性的第四大常见癌症，预计未来几年预计利率将会升高。它是一种缓慢增长的癌症，主要影响50岁以上的男性。前列腺是一种核桃大小的腺体，仅在位于直肠前的膀胱下方的男性身上发现，它有助于使流体形成精液的一部分。前列腺癌的原因尚不清楚，目前还没有明确的预防策略。有前列腺癌影响的一级亲属的男性患前列腺癌的风险增加。</string>
+    <string name="info3">" •需要频繁排尿，特别是在夜间，有时会紧急排尿
+        \n•开始或排尿困难
+        \n•尿液流动不畅，流淌不畅
+        \n•疼痛或灼痛的小便
+        \n•勃起困难
+        \n•液体射出量减少
+        \n•痛苦的射精
+        \n•尿液或精液中的血液
+        \n•直肠压力或疼痛
+        \n•腰部，臀部，骨盆或大腿部位疼痛或僵硬"</string>
+    <string name="info5">根据最新的数据，当它包括前列腺癌的所有阶段时：
+        \n•5年的相对生存率为99％
+        \n•10年的相对存活率为98％
+        \n•15年的相对可持续发展率为96％ \\ n请记住，正如5年生存率是基于5年前诊断和治疗的男性一样，10年的生存率基于10多年前诊断的男性（15年的生存率基于男性诊断至少15年前）。</string>
+</resources>
